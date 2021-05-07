@@ -11,5 +11,4 @@
   - ordenação com ``sortBy`` e ``sortedBy``;
   - operações com ``filter``, ``map``, ``groupBy``;
   
-Esse repositório reúne os conceitos aprendidos no curos de [Kotlin](https://cursos.alura.com.
-br/course/kotlin-introducao-collections-arrays-listas) da [Alura](https://www.alura.com.br/).
+Esse repositório reúne os conceitos aprendidos no curos de [Kotlin](https://cursos.alura.com.br/course/kotlin-introducao-collections-arrays-listas) da [Alura](https://www.alura.com.br/).
